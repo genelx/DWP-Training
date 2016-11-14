@@ -1,6 +1,5 @@
-
 ---
- Testing page
+title: Testing page
 ---
 
 # This the title
