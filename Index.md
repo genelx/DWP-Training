@@ -1,7 +1,7 @@
 title :1st lesson page
 ---
 
-# This is MD
+# This is markdown
 ## for testing the repo
 
 * item W
