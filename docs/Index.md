@@ -1,4 +1,5 @@
-title :1st lesson page
+---
+title: 1st lesson page
 ---
 
 # This is markdown
